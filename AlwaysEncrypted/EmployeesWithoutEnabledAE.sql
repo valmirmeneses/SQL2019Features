@@ -1,0 +1,6 @@
+SELECT TOP (1000) [EmployeeID]
+      ,[SSN]
+      ,[FirstName]
+      ,[LastName]
+      ,[Salary]
+  FROM [AdventureWorks].[HumanResources].[Employees]
